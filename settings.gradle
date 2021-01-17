@@ -1,0 +1,3 @@
+include ':stickyheader'
+include ':app'
+rootProject.name = "StickyHeaderLib"
